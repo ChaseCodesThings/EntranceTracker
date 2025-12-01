@@ -3,3 +3,5 @@ ultralytics
 supervision
 pandas
 opencv-python-headless
+streamlit-webrtc
+av
